@@ -1,1 +1,2 @@
-# pequerag-jitsi-meet-ios-sdk-releases
+# jitsi-meet-ios-sdk-releases
+ 
