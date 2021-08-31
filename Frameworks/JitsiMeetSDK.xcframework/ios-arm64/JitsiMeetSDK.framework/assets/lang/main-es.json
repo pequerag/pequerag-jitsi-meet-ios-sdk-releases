@@ -315,9 +315,9 @@
         "transcribing": "Transcribiendo",
         "unlockRoom": "Quitar la $t(lockRoomPassword) de reunión",
         "userPassword": "contraseña del usuario",
-        "WaitForHostMsg": "La conferencia <b>{{room}}</b> aún no ha comenzado. Si eres el anfitrión, inicia sesión. De lo contrario, espera a que llegue el anfitrión.",
-        "WaitForHostMsgWOk": "La conferencia <b>{{room}}</b> aún no ha comenzado. Si eres el anfitrión, presiona Aceptar para autenticar. De lo contrario, espera a que llegue el anfitrión.",
-        "WaitingForHost": "Esperando al anfitrión…",
+        "WaitForHostMsg": "Aguarde a que el Dr. ingrese a la teleconsulta",
+        "WaitForHostMsgWOk": "Aguarde a que el Dr. ingrese a la teleconsulta",
+        "WaitingForHost": "Bienvenido",
         "Yes": "Sí",
         "yourEntireScreen": "Toda la pantalla"
     },
