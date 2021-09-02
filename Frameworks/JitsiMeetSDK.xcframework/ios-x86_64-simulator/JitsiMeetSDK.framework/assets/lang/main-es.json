@@ -315,8 +315,8 @@
         "transcribing": "Transcribiendo",
         "unlockRoom": "Quitar la $t(lockRoomPassword) de reunión",
         "userPassword": "contraseña del usuario",
-        "WaitForHostMsg": "Aguarde a que el Dr. ingrese a la teleconsulta",
-        "WaitForHostMsgWOk": "Aguarde a que el Dr. ingrese a la teleconsulta",
+        "WaitForHostMsg": "Aguarde a que el Dr. ingrese a la videoconsulta",
+        "WaitForHostMsgWOk": "Aguarde a que el Dr. ingrese a la videoconsulta",
         "WaitingForHost": "Bienvenido",
         "Yes": "Sí",
         "yourEntireScreen": "Toda la pantalla"
